@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Meta-Skill"
+  short_description: "Build production-ready Agent skills"
+  default_prompt: "Use $agent-meta-skill to design and implement a production-ready Agent skill from a new requirement or workflow."
